@@ -1,6 +1,6 @@
 ## Olá, meu nome é Raul 👋
 
-- 👨‍🎓 Sou Estudante de Sistemas de Informação, atualmente cursando o 5° período.
+- 👨‍🎓 Sou Estudante de Sistemas de Informação, atualmente cursando o 6° período.
 - 🧠 No momento estou procurando me aprofundar em HTML, CSS, JavaScript, conceitos de UX e aplicações de metodologias ágeis.
 - 🎯 Me interesso bastante em Marketing, negócios, desenvolvimento client-side e experiência do usuário.
 - 💬 Contato: raularaujomachado@gmail.com / (34) 9 9812-8545
