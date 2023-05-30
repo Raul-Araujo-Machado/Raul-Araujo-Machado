@@ -1,9 +1,24 @@
-## Olá, meu nome é Raul 👋
+## Olá, meu nome é Raul! 👋
 
-- 👨‍🎓 Sou Estudante de Sistemas de Informação, atualmente cursando o 7° período.
-- 🧠 No momento estou procurando me aprofundar em HTML, CSS, JavaScript, conceitos de UX/UI design e aplicações de metodologias ágeis.
-- 🎯 Me interesso bastante em Marketing, negócios, desenvolvimento client-side e experiência do usuário.
-- 💬 Contato: raularaujomachado@gmail.com / (34) 9 9812-8545
-<!--
-**Raul-Araujo-Machado/Raul-Araujo-Machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Bem-vindo ao meu perfil do GitHub! Sou um estudante de Sistemas de Informação, atualmente cursando o 7° período. Estou em busca de aprimorar meus conhecimentos em JavaScript/TypeScript, APIs, frameworks front-end, conceitos de UX/UI design e aplicações de metodologias ágeis.
+
+### 🔭 O que estou fazendo atualmente
+
+- 💻 Trabalhando em projetos pessoais e acadêmicos.
+- 🌱 Aprendendo novas tecnologias.
+- 📚 Estudando para aprimorar minhas habilidades técnicas.
+
+### 🚀 Interesses
+
+- 🎯 Me interesso bastante em desenvolvimento client-side, experiência do usuário, Marketing e negócios.
+- 💡 Sempre buscando aprender sobre as últimas tendências e práticas recomendadas.
+
+### 📫 Como me encontrar
+
+- ✉️ Email: [raularaujomachado@gmail.com](mailto:raularaujomachado@gmail.com)
+- 📞 Telefone: (34) 9 9812-8545
+- 💼 Linkedin: [in/raularaujomachado/](https://www.linkedin.com/in/raularaujomachado/)
+
+### 📊 Linguagens mais utilizadas
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-Araujo-Machado&layout=compact)
