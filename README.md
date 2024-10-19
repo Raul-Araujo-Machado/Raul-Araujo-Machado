@@ -2,22 +2,22 @@
 
 # Olá, meu nome é Raul! 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um estudante de Sistemas de Informação, atualmente cursando o 7° período. Estou em busca de aprimorar meus conhecimentos em JavaScript/TypeScript, APIs, frameworks front-end, conceitos de UX/UI design e aplicações de metodologias ágeis.
+Bem-vindo ao meu perfil do GitHub! Sou ddesenvolvedor de software. Estou em busca de aprimorar meus conhecimentos em arquitetura de APIs JavaScript/TypeScript, estratégias de comunicação entre serviços (REST, GraphQL, gRPC, RabbitMQ, etc.) e DevOps.
 
 ## 🔭 O que estou fazendo atualmente
 
-- 💻 Trabalhando em projetos pessoais e acadêmicos.
+- 💻 Trabalhando em projetos pessoais.
 - 🌱 Aprendendo novas tecnologias.
 - 📚 Estudando para aprimorar minhas habilidades técnicas.
 
 ## 🚀 Interesses
 
-- 🎯 Me interesso bastante em desenvolvimento client-side, experiência do usuário, Marketing e negócios.
+- 🎯 Me interesso bastante em desenvolvimento de software de ponta a ponta, experiência do usuário, Marketing e negócios.
 - 💡 Sempre buscando aprender sobre as últimas tendências e práticas recomendadas.
 
 ## 📫 Como me encontrar
 
-- ✉️ Email: [raularaujomachado@gmail.com](mailto:raularaujomachado@gmail.com)
+- ✉️ Email: [raularaujo.dev@gmail.com](mailto:raularaujo.dev@gmail.com)
 - 📞 Telefone: (34) 9 9812-8545
 - 💼 Linkedin:   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raularaujomachado/) 
 
